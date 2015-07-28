@@ -168,6 +168,11 @@ a:focus {
     font-size: 18px;
 }
 
+#tottframe{
+    width: 100% !important;
+    height: 600px;
+}
+
 @media(min-width:768px) {
     .intro {
         height: 100%;
